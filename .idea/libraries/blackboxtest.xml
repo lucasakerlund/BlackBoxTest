@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="blackboxtest">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../API/school related/blackboxtest" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../API/school related/blackboxtest" recursive="false" />
+  </library>
+</component>
